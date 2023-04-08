@@ -1,0 +1,24 @@
+Nadajnik: https://www.laserdiodesource.com/files/pdfs/laserdiodesource_com/product-1733/1529nm_1611nm_40mW_butterfly_DWDM_Fitel-1417292919.pdf
+
+Światłowód komunikacyjny: https://www.corning.com/media/worldwide/coc/documents/Fiber/product-information-sheets/PI-1107-AEN.pdf
+
+Modulator: 
+https://www.thorlabs.com/drawings/93f2c45ec97940f1-03203D74-FEA2-A529-BAF9D1B8E2F14868/LN82S-FC-SpecSheet.pdf
+
+Kompensacja dyspersji:
+https://www.thorlabs.com/catalogpages/obsolete/2017/DCF38.pdf
+https://emcore.com/wp-content/uploads/2016/03/359C.pdf
+
+Multiplekser:
+https://www.microsens.com/fileadmin/files/uploads/products/1_public/0_DAT/4_OTN/DAT431_MS4198xx_DWDM-Multiplexer-19i_EN_4320.pdf
+
+Wzmacniacz:
+https://resource.fs.com/mall/doc/20230316165104eihwq6.pdf
+http://catvworld.net/products/edfa/hwa4400/datasheet.htm
+
+Odbiornik
+https://www.mouser.pl/datasheet/2/1094/MTPD2601T_100-3078555.pdf
+
+
+
+
